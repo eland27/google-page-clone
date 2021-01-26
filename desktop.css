@@ -1,0 +1,27 @@
+.main {
+    height: 82%;
+}
+
+.footer {
+    height: 10%;
+}
+
+.footer-country {
+    height: 50%;
+    justify-content: flex-start;
+}
+
+.country-text {
+    margin-left: 2.6rem;
+}
+
+.google-about {
+    height: 50%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer-options-group-2{
+    justify-content: flex-end;
+    margin-right: 2.5rem
+}
